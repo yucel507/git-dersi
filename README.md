@@ -1,6 +1,6 @@
 # git-dersi
 
-![deneme](https://github.com/yucel507/git-dersi/blob/master/ycelemre.png)
+![deneme](https://github.com/yucel507/git-dersi/blob/master/image/ycelemre.png)
 
 ## Projenin amacı
 
